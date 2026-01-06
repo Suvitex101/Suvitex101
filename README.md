@@ -10,15 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/powerful_niyi" target="blank"><img src="https://img.shields.io/twitter/follow/powerful_niyi?logo=twitter&style=for-the-badge" alt="powerful_niyi" /></a> </p>
 
-- 🔭 I’m currently working on **ALX SE projects**
+- 🔭 I’m currently working on **Personal Startup**
 
-- 🌱 I’m currently learning **Python, Javascript, C, ReactJs, AWS Cloud**
-
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **Python/Solidity projects**
 
 - 💬 Ask me about **Fullstack**
 
-- 📫 How to reach me **oluwaniyibalogun1998@gmail.com**
+- 📫 How to reach me **abiolabalogun058@gmail.com**
 
 - ⚡ Fun fact **I think I'm addicted to Tech**
 
