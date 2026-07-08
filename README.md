@@ -1,36 +1,273 @@
-<img src="https://media.istockphoto.com/id/636526232/vector/software-engineering-banner-and-icons.jpg?s=170667a&w=0&k=20&c=l2guNn4wqKHIYoM0nLJyeYX8WMlrDYmStypGtTgVVTQ=" width="1000" alt="Software Engineering Banner and Icons">
+<!-- ========================================================= -->
+<!--                  GitHub Profile README                     -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Balogun Oluwaniyi</h1>
-<h3 align="center">Full Stack Software Engineer and Developer | Delivering Robust Solutions for Web and Mobile Applications</h3>
-<img align="right" src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coding" width="1000">
+<h1 align="center">
+Hi 👋, I'm Balogun Oluwaniyi
+</h1>
+
+<h3 align="center">
+Software Engineer building AI Infrastructure, Developer Tools, and Payment Systems.
+</h3>
+
+<p align="center">
+I design and build scalable software with a strong focus on developer experience,
+distributed systems, AI, and modern financial infrastructure.
+</p>
+
+<p align="center">
+<a href="https://github.com/suvitex101">
+<img src="https://img.shields.io/github/followers/suvitex101?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/suvitex101?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Projects-blue?style=for-the-badge" />
+</a>
+
+<a href="mailto:abiolabalogun058@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+</a>
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suvitex101&label=Profile%20views&color=0e75b6&style=flat" alt="suvitex101" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suvitex101" alt="suvitex101" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/powerful_niyi" target="blank"><img src="https://img.shields.io/twitter/follow/powerful_niyi?logo=twitter&style=for-the-badge" alt="powerful_niyi" /></a> </p>
+# About Me
 
-- 🔭 I’m currently working on **Personal Startup**
+I'm a software engineer passionate about building products that solve meaningful problems.
 
-- 👯 I’m looking to collaborate on **Python/Solidity projects**
+My interests span across AI systems, developer tooling, distributed systems, payment infrastructure, cloud computing, and blockchain engineering.
 
-- 💬 Ask me about **Fullstack**
+I enjoy taking ideas from zero to production while emphasizing:
 
-- 📫 How to reach me **abiolabalogun058@gmail.com**
+- Clean architecture
+- Reliability
+- Performance
+- Security
+- Scalability
+- Great developer experience
 
-- ⚡ Fun fact **I think I'm addicted to Tech**
+I believe the best software isn't just functional—it is simple, maintainable, and trusted by the people who depend on it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/powerful_niyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="powerful_niyi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oluwaniyibalogun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwaniyibalogun" height="30" width="40" /></a>
+---
+
+# What I'm Working On
+
+- 🚀 Building developer infrastructure
+- 🤖 AI-powered products and tools
+- 💳 Modern payment infrastructure
+- 🌐 Open-source software
+- ⚡ Scalable backend systems
+- 📚 Constantly learning distributed systems and systems design
+
+---
+
+# Engineering Interests
+
+- Artificial Intelligence
+- Backend Engineering
+- Distributed Systems
+- Developer Platforms
+- API Design
+- Cloud Infrastructure
+- Blockchain Infrastructure
+- DevTools
+- System Architecture
+- Open Source
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,solidity,go,java,c,cpp,dart" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvitex101&show_icons=true&locale=en&layout=compact" alt="suvitex101" /></p>
+## Frontend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvitex101&show_icons=true&locale=en" alt="suvitex101" /></p>
+<p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvitex101&" alt="suvitex101" /></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" />
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,bash" />
+
+</p>
+
+---
+
+## Blockchain
+
+- Solidity
+- Foundry
+- Hardhat
+- Ethers.js
+- ERC-4337
+- Account Abstraction
+- Smart Contracts
+- Stablecoin Infrastructure
+
+---
+
+# Featured Projects
+
+## AI Infrastructure
+
+Building intelligent systems that automate workflows and improve developer productivity.
+
+---
+
+## Payment Infrastructure
+
+Modern financial infrastructure enabling seamless digital payments and developer-friendly integrations.
+
+---
+
+## Developer Tools
+
+Creating SDKs, APIs, and tooling that help developers build faster and ship with confidence.
+
+---
+
+## Blockchain Infrastructure
+
+Developing smart contracts, developer tooling, and decentralized applications focused on usability and scalability.
+
+---
+
+# Engineering Philosophy
+
+> Good engineering isn't writing clever code.
+
+It's building software that is:
+
+- Reliable
+- Secure
+- Maintainable
+- Observable
+- Well documented
+- Easy for others to understand
+
+Simple systems outperform complicated ones.
+
+---
+
+# Open Source
+
+I enjoy contributing to projects that improve developer experience.
+
+Areas I love contributing to:
+
+- Developer SDKs
+- APIs
+- Backend Frameworks
+- AI Tooling
+- Blockchain Infrastructure
+- Documentation
+
+---
+
+# GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=suvitex101&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvitex101&hide_border=true&area=true" />
+
+</p>
+
+---
+
+# Currently Learning
+
+- Large Language Models
+- AI Agents
+- Distributed Systems
+- Rust
+- Kubernetes
+- System Design
+- Networking
+- High Performance Backend Engineering
+
+---
+
+# Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/oluwaniyibalogun">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/AisdorDefi">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:abiolabalogun058@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square"/>
+</a>
+
+</p>
+
+---
+
+# Quote I Live By
+
+> "First solve the problem. Then write the code."
+
+— John Johnson
+
+---
+
+<p align="center">
+
+Thanks for stopping by!
+
+If you enjoy building great software, AI systems, developer tools, or modern infrastructure, let's connect and build something meaningful together.
+
+</p>
